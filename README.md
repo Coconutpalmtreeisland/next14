@@ -1,28 +1,11 @@
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
-```
+- next.js 설치
+`npx create-next-app@latest .`
+√ Would you like to use TypeScript? ... `No` / Yes
+√ Would you like to use ESLint? ... No / `Yes`
+√ Would you like to use Tailwind CSS? ... `No` / Yes
+√ Would you like to use `src/` directory? ... No / `Yes`
+√ Would you like to use App Router? (recommended) ... No / `Yes`
+√ Would you like to customize the default import alias (@/*)? ... `No` / Yes
+Creating a new Next.js app in C:\Users\line\Desktop\next.js14.
 
 
-run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

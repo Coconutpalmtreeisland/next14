@@ -3,7 +3,7 @@
     --bgSoft: #9180e2;
     --text: white;
     --textSoft: #e5e5e5;
-    --btn: #ffd755;
+    --btn: #FFAD6C;
 }
 
 * {
@@ -68,5 +68,11 @@ a {
 @media (max-width: 640px) {
     .container {
         width: 475px;
+    }
+}
+
+@media (max-width: 475px) {
+    .container {
+        width: 380px;
     }
 }

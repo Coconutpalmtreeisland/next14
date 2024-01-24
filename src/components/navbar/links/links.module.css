@@ -36,13 +36,13 @@
         right: 0;
         width: 50%;
         height: calc(100vh - 100px);
-        /* background-color: var(--bg); */
-        background-color: royalblue;
+        background-color: var(--bgSoft);
         display: flex;
         flex-direction: column;
         place-items: center;
         place-content: center;
         gap: 10px;
+        z-index: 1;
     }
 
 }
